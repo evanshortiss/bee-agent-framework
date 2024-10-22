@@ -1,9 +1,8 @@
-<p align="center">
-    <img alt="Bee Framework logo" src="./docs/assets/Bee_Dark.svg" height="128">
+<div align="center">
+  <img alt="Bee Framework logo" src="./docs/assets/Bee_Dark.svg" height="128">
 
-    <h1 align="center">Bee Agent Framework</h1>
-
-</p>
+  <h1>Bee Agent Framework</h1>
+</div>
 
 <p align="center">
   <a aria-label="Join the community on GitHub" href="https://github.com/i-am-bee/bee-agent-framework/discussions">
